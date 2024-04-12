@@ -7,7 +7,7 @@
 [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
 ### mac
 [v2box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
-[https://github.com/shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)  
+[ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)  
 
 ## airport
 [https://com.ss.sssuusss.com/auth/register](https://com.ss.sssuusss.com/auth/register)  
