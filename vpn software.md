@@ -4,3 +4,6 @@
 
 ## mac
 [v2box](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)、[ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
+
+## browser extension
+[ghelper](https://ghelper.net/)
